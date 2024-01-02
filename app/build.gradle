@@ -22,11 +22,6 @@ android {
 // Added by raj
 repositories {
     mavenCentral()
-
-    maven {
-        url "http://dl.bintray.com/journeyapps/maven"
-        allowInsecureProtocol = true
-    }
 }
 // Added by raj ends
 
